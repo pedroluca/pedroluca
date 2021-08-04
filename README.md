@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/pedro-luca-3130b31b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  	<!--<a href="https://www.twitch.tv/FawkezeraYT" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
   <a href="https://open.spotify.com/user/a0nbictednh842ioypq5ptw7h?si=u1BlvzIZRTqeUKD4E_PyMg" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Qev2qbmK89" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/tKVn4Sm2KU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedrolucaofc@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/pedroluca/pedroluca/blob/output/github-contribution-grid-snake.svg)
