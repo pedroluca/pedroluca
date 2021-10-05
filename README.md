@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro Luca 👋
 
 - 💻 Atualmente ainda não possuo trabalho, mas aceito propostas
-- 👨🏻‍💻 Estou estudando PHP e começarei a ver ReactJS
+- 👨🏻‍💻 Estou aprimorando meus conhecimentos estudando react.js
 
 <div>
   <a href="https://beacons.ai/pe.uuh">
