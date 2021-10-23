@@ -1,7 +1,9 @@
-### Olá! Eu sou o Pedro Luca 👋
+### Olá! Me chamo Pedro Luca 👋
 
-- 💻 Atualmente ainda não possuo trabalho, mas aceito propostas
-- 👨🏻‍💻 Estou aprimorando meus conhecimentos estudando react.js
+Tenho 18 anos, sou formado como técnico em informática e adoro programar.
+
+- 💻 Atualmente estou em busca de oportunidades para trabalhar como desenvolvedor front-end
+- 👨🏻‍💻 Estou estudando react.js
 
 <div>
   <a href="https://beacons.ai/pe.uuh">
