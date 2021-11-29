@@ -5,7 +5,7 @@ Tenho 18 anos, sou formado como técnico em informática e adoro programar.
 - 💻 Atualmente estou em busca de oportunidades para trabalhar como desenvolvedor front-end
 - 👨🏻‍💻 Estou estudando react.js
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pedroluca/pedroluca/blob/master/devcard.svg" width="400" alt="Pedro Luca's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pedroluca/pedroluca/master/devcard.svg" width="400" alt="Pedro Luca's Dev Card"/></a>
 
 <div>
   <a href="https://pedroluca.epizy.com">
