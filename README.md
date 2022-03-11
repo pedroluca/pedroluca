@@ -1,6 +1,6 @@
 ### Olá! Me chamo Pedro Luca 👋
 
-Tenho 18 anos, sou formado como técnico em informática e adoro programar.
+Tenho 19 anos, sou formado como técnico em informática e adoro programar.
 
 - 💻 Atualmente estou em busca de oportunidades para trabalhar como desenvolvedor front-end
 - 👨🏻‍💻 Estou estudando react.js
