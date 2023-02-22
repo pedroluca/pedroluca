@@ -2,7 +2,7 @@
 
 Tenho 19 anos, sou formado como técnico em informática e adoro programar. Gosto muito de ler, jogar, correr e nadar, além de gostar muito de andar de cavalo.
 
-- 💻 Hoje em dia trabalho como técnico de informática no setor de TI do Hospital Geral de minha cidade, mas estou sempre buscando e aceitando propostas como dev freelancer, basta chamar no instagram ou e-mail abaixo.
+- 💻 Atualmente estou cursando a faculdade de Análise e Desenvolvimento de Sistemas, no IF Baiano. Apesar disso estou sempre buscando e aceitando propostas como dev freelancer, basta chamar no instagram ou e-mail abaixo.
 - 👨🏻‍💻 Tenho conhecimento das linguagens HTML, CSS, Javascript e PHP, e também sei programar em C/C++ ou Arduino. Pretendo aumentar meu conhecimento em Javascript e aprender React.js.
 
 <div>
