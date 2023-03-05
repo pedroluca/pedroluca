@@ -40,4 +40,4 @@ Tenho 19 anos, sou formado como técnico em informática e adoro programar. Gost
   ![Snake animation](https://github.com/pedroluca/pedroluca/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-  <a href="https://app.daily.dev/pedroluca"><img src="https://github.com/pedroluca/pedroluca/blob/main/devcard.svg" width="400" alt="Pedro Luca's Dev Card"/></a>
+  <a href="https://app.daily.dev/pedroluca"><img src="https://api.daily.dev/devcards/3be6a7a65c11406aa5a1845c680e4e30.png?r=3ks" width="400" alt="Pedro Luca Prates's Dev Card"/></a>
