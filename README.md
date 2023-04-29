@@ -12,7 +12,7 @@
 </div>
 <div>
 Olá a todos, me chamo Pedro Luca Prates, tenho 20 anos, sou formado como técnico em informática e estudante do segundo semestre de Análise e Desenvolvimento de Sistemas. Meus hobbies são programar, ler, jogar, praticar esportes (corrida e natação) e andar de cavalo.
-
+<br>
 - 💻 Atualmente estou buscando e aceitando propostas como dev freelancer, basta chamar no instagram ou e-mail.
 - 👨🏻‍💻 Tenho conhecimento das linguagens HTML, CSS, Javascript e PHP, e também sei programar em C. Pretendo aumentar meu conhecimento em Javascript e aprender React.js.
 </div>
