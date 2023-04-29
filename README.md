@@ -41,7 +41,7 @@ Olá a todos, me chamo Pedro Luca Prates, tenho 20 anos, sou formado como técni
 <br>
   
 <div>  
-  ![Snake animation](https://github.com/pedroluca/pedroluca/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pedroluca/pedroluca/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ##
