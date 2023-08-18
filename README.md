@@ -17,12 +17,12 @@
 - 💻 Estou em busca de oportunidades para atuar como desenvolvedor freelancer ou CLT, basta entrar em contato via <a href="mailto: pedrolucaofc@outlook.com">e-mail</a>.
 - 👨🏻‍💻 Tenho conhecimento sobre as seguintes tecnologias: HTML, CSS, Javascript e React.js, PHP e C. Além disso, estou sempre estudando para aprender cada vez mais sobre essas e outras tecnologias.
 
-<p>Para saber mais sobre mim, visite o meu site: <a href="https://www.pedroluca.vercel.app" target="_blank">www.pedroluca.vercel.app</a></p>
+<p>Para saber mais sobre mim, visite o meu site: <a href="https://pedroluca.vercel.app" target="_blank">www.pedroluca.vercel.app</a></p>
 </div>
 <br>
 <div style="display: flex;">
   <div>
-    <a href="https://pedroluca.epizy.com">
+    <a href="https://pedroluca.vercel.app">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroluca&layout=compact&langs_count=7&theme=tokyonight">
     </a>
   </div>
