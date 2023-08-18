@@ -1,4 +1,4 @@
-### Olá! Me chamo Pedro Luca 👋
+# Olá, seja bem-vindo(a) ao meu perfil! 👋
 
 <div>
   <a href="https://www.linkedin.com/in/pedro-luca-prates/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -11,16 +11,18 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif?raw=true">
 </div>
 <div>
-<p>Olá a todos, me chamo Pedro Luca Prates, tenho 20 anos, sou formado como técnico em informática e estudante do segundo semestre de Análise e Desenvolvimento de Sistemas. Meus hobbies são programar, ler, jogar, praticar esportes (corrida e natação) e andar de cavalo.</p>
+<p>Eu me chamo Pedro Luca, tenho 20 anos, e sou estudante do terceiro semestre de Análise e Desenvolvimento de Sistemas no IF Baiano - <em>campus</em> Guanambi. Também possuo formação como Técnico em Informática para Internet pela mesma instituição.</p>
+<p>Meus hobbies são programar, ler, jogar, praticar esportes (corrida e natação) e andar de cavalo.</p>
   
-- 💻 Atualmente estou buscando e aceitando propostas como dev freelancer, basta chamar no instagram ou e-mail.
-- 👨🏻‍💻 Tenho conhecimento das linguagens HTML, CSS, Javascript e PHP, e também sei programar em C. Estou sempre estudando para aprender cada vez mais sobre essas e outras tecnologias.
+- 💻 Estou em busca de oportunidades para atuar como desenvolvedor freelancer ou CLT, basta entrar em contato via <a href="mailto: pedrolucaofc@outlook.com">e-mail</a>.
+- 👨🏻‍💻 Tenho conhecimento sobre as seguintes tecnologias: HTML, CSS, Javascript e React.js, PHP e C. Além disso, estou sempre estudando para aprender cada vez mais sobre essas e outras tecnologias.
+
+<p>Para saber mais sobre mim, visite o meu site: <a href="https://www.pedroluca.vercel.app" target="_blank">www.pedroluca.vercel.app</a></p>
 </div>
 <br>
 <div style="display: flex;">
   <div>
     <a href="https://pedroluca.epizy.com">
-  <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroluca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroluca&layout=compact&langs_count=7&theme=tokyonight">
     </a>
   </div>
@@ -30,9 +32,7 @@
     <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <!--   <img align="center" alt="Pedro-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
     <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <!--   <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> -->
   </div>
 </div>
   
