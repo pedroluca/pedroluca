@@ -14,8 +14,8 @@
 <p>Eu me chamo Pedro Luca, tenho 20 anos, e sou estudante do terceiro semestre de Análise e Desenvolvimento de Sistemas no IF Baiano - <em>campus</em> Guanambi. Também possuo formação como Técnico em Informática para Internet pela mesma instituição.</p>
 <p>Meus hobbies são programar, ler, jogar, praticar esportes (corrida e natação) e andar de cavalo.</p>
   
-- 💻 Estou em busca de oportunidades para atuar como desenvolvedor freelancer ou CLT, basta entrar em contato via <a href="mailto: pedrolucaofc@outlook.com">e-mail</a>.
-- 👨🏻‍💻 Tenho conhecimento sobre as seguintes tecnologias: HTML, CSS, Javascript e React.js, PHP e C. Além disso, estou sempre estudando para aprender cada vez mais sobre essas e outras tecnologias.
+- 💻 Disponível para desenvolvimento de sistemas e sites pessoais e para empresas, basta entrar em contato via <a href="mailto: pedrolucaofc@outlook.com">e-mail</a>.
+- 👨🏻‍💻 Tenho conhecimento sobre as tecnologias: HTML, CSS, Javascript e React.js, PHP, Java e C. Além disso, estou sempre estudando para aprender cada vez mais sobre essas e outras tecnologias.
 
 <p>Para saber mais sobre mim, visite o meu site: <a href="https://pedroluca.vercel.app" target="_blank">www.pedroluca.vercel.app</a></p>
 </div>
