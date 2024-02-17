@@ -19,7 +19,7 @@
 <a href="https://stackoverflow.com/users/17055722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17055722" height="30" width="40" /></a>
 <a href="https://instagram.com/pedroluca.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedroluca.p" height="30" width="40" /></a>
 <a href="https://medium.com/@pedrolucaofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pedrolucaofc" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@pedroluca.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pedroluca.p" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC7qDaMEUS4MjhQ7UVxQQVMQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pedroluca.p" height="30" width="40" /></a>
 <a href="https://discord.gg/pedroluca.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pedroluca.p" height="30" width="40" /></a>
 </p>
 
