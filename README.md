@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pedrolucaofc" target="blank"><img src="https://img.shields.io/twitter/follow/pedrolucaofc?logo=twitter&style=for-the-badge" alt="pedrolucaofc" /></a> </p>
 
-- 🔭 I’m currently working on [a system called navi](https://github.com/pedroluca/navi)
+- 🔭 I’m currently working on a java system called [navi](https://github.com/pedroluca/navi)
 
 - 🌱 I’m currently learning **Java, Spring and React.JS**
 
