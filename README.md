@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Luca</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroluca" alt="pedroluca" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pedrolucaofc" target="blank"><img src="https://img.shields.io/twitter/follow/pedrolucaofc?logo=twitter&style=for-the-badge" alt="pedrolucaofc" /></a> </p>
 
 - 🔭 I’m currently working on [a system called navi](https://github.com/pedroluca/navi)
