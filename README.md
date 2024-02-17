@@ -9,7 +9,7 @@
 
 - 🔭 Atualmente estou trabalhando num projeto Java chamado [navi](https://github.com/pedroluca/navi)
 
-- 🌱 Atualmente estou aprendendo **Java, Spring and React.JS**
+- 🌱 Atualmente estou aprendendo **Java, Spring** e **React.JS**
 
 - 💬 Me pergunte sobre **html, css, php**
 
