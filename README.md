@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pedro Luca</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h1 align="center">Olá 👋, Eu sou Pedro Luca</h1>
+<h3 align="center">Um desenvolvedor frontend apaixonado do Brasil</h3>
 
 <p align="left"> <a href="https://twitter.com/pedrolucaofc" target="blank"><img src="https://img.shields.io/twitter/follow/pedrolucaofc?logo=twitter&style=for-the-badge" alt="pedrolucaofc" /></a> </p>
 
