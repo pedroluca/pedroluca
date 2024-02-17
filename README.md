@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/pedrolucaofc" target="blank"><img src="https://img.shields.io/twitter/follow/pedrolucaofc?logo=twitter&style=for-the-badge" alt="pedrolucaofc" /></a> </p>
 
+<div>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif?raw=true">
+</div>
+
 - 🔭 I’m currently working on a java system called [navi](https://github.com/pedroluca/navi)
 
 - 🌱 I’m currently learning **Java, Spring and React.JS**
@@ -29,3 +33,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroluca&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pedroluca" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroluca&show_icons=true&locale=en&theme=tokyonight" alt="pedroluca" /></p>
+
+##
+<div>
+  <a href="https://app.daily.dev/pedroluca"><img src="https://api.daily.dev/devcards/3be6a7a65c11406aa5a1845c680e4e30.png?r=3ks" width="400" alt="Pedro Luca Prates's Dev Card"/></a>
+</div>
