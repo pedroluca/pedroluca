@@ -54,6 +54,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroluca&show_icons=true&locale=pt-br&theme=tokyonight" alt="pedroluca" /></p>
 
 ##
+
 <div>
-  <a href="https://app.daily.dev/pedroluca"><img src="https://api.daily.dev/devcards/3be6a7a65c11406aa5a1845c680e4e30.png?r=3ks" width="400" alt="Pedro Luca Prates's Dev Card"/></a>
+  <a href="https://app.daily.dev/pedroluca"><img src="https://api.daily.dev/devcards/v2/2bzgKd1w7N0tfAcjU1Tcl.png?type=wide&r=08s" width="652" alt="Pedro Luca Prates's Dev Card"/></a>
 </div>
