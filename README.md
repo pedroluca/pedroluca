@@ -7,7 +7,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif?raw=true">
 </div>
 
-- 🔭 Atualmente estou trabalhando num projeto Java chamado [navi](https://github.com/pedroluca/navi)
+- 🔭 Atualmente estou trabalhando num projeto, uma nova versão do meu portfolio, que pode ser visto [aqui](https://github.com/pedroluca/portfolio-2024)
 
 - 🌱 Atualmente estou aprendendo **Java, Spring** e **React.JS**
 
