@@ -9,11 +9,11 @@
 
 - 🔭 Atualmente estou trabalhando numa nova versão do meu portfolio
 
-- 🌱 Atualmente estou aprendendo **Java, Spring** e **React.JS**
+- 🌱 Estou aprendendo **Java, Spring** e **React.JS**
 
 - 💬 Me pergunte sobre **html, css, php**
 
-- 📫 Como entrar em contato comigo **pedrolucaofc@outlook.com**
+- 📫 Entre em contato comigo em **pedrolucaofc@outlook.com**
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
