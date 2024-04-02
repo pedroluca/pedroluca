@@ -7,7 +7,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif?raw=true">
 </div>
 
-- 🔭 Atualmente estou trabalhando numa nova versão do meu portfolio
+- 🔭 Atualmente estou trabalhando num [sistema web](https://github.com/pedroluca/olimpiadas-cientificas) para a [I Olimpíadas Científicas](https://olimpiadasdosertaoprodutivo.com)
 
 - 🌱 Estou aprendendo **Java, Spring** e **React.JS**
 
