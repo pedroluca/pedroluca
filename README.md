@@ -1,19 +1,23 @@
-<h1 align="center">Olá 👋, Eu sou Pedro Luca</h1>
-<h3 align="center">Um desenvolvedor brasileiro e apaixonado pelo front-end</h3>
+<div>
+  <a href="https://app.daily.dev/pedroluca"><img src="https://api.daily.dev/devcards/v2/2bzgKd1w7N0tfAcjU1Tcl.png?type=wide&r=08s" width="652" alt="Pedro Luca Prates' Dev Card"/></a>
+</div>
 
-<p align="left"> <a href="https://twitter.com/pedrolucaofc" target="blank"><img src="https://img.shields.io/twitter/follow/pedrolucaofc?logo=twitter&style=for-the-badge" alt="pedrolucaofc" /></a> </p>
+<h2>Hello 👋, I'm Pedro Luca!</h2>
+<p>A passionate Brazilian front-end developer</p>
 
 <div>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif?raw=true">
 </div>
 
-- 🔭 Atualmente estou trabalhando num [sistema web](https://github.com/pedroluca/olimpiadas-cientificas) para a [I Olimpíadas Científicas](https://olimpiadasdosertaoprodutivo.com)
+- 🔭 Currently working on a [web system](https://github.com/pedroluca/olimpiadas-cientificas) for [I Olimpíadas Científicas](https://olimpiadasdosertaoprodutivo.com), an event organized by IF Baiano - <em>Campus</em> Guanambi
 
-- 🌱 Estou aprendendo **React.JS** e **TypeScript**
+- 🌱 Studying and improving my skills in **React.JS**, **TypeScript** and **PHP/Laravel**
 
-- 📫 Entre em contato comigo em **pedrolucaofc@outlook.com**
+- 🚀 Student at Instituto Federal de Educação, Ciência e Tecnologia Baiano (IFBaiano).
 
-<h3 align="left">Conecte comigo:</h3>
+- 📫 Mail me: [**pedrolucaofc@outlook.com**](mailto:pedrolucaofc@outlook.com)
+
+<h2>Social Networks</h2>
 <p align="left">
   <a href="https://instagram.com/pedroluca.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedroluca.p" height="30" width="40" /></a>
   <a href="https://twitter.com/pedrolucaofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pedrolucaofc" height="30" width="40" /></a>
@@ -25,8 +29,8 @@
   <a href="https://stackoverflow.com/users/17055722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17055722" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> 
+<h2>Techs & Tools</h2>
+<p> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -47,12 +51,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
+<h2>Analytics & Highlights</h2>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroluca&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="pedroluca" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroluca&show_icons=true&locale=pt-br&theme=tokyonight" alt="pedroluca" /></p>
-
-##
-
-<div>
-  <a href="https://app.daily.dev/pedroluca"><img src="https://api.daily.dev/devcards/v2/2bzgKd1w7N0tfAcjU1Tcl.png?type=wide&r=08s" width="652" alt="Pedro Luca Prates's Dev Card"/></a>
-</div>
