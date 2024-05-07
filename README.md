@@ -9,9 +9,7 @@
 
 - 🔭 Atualmente estou trabalhando num [sistema web](https://github.com/pedroluca/olimpiadas-cientificas) para a [I Olimpíadas Científicas](https://olimpiadasdosertaoprodutivo.com)
 
-- 🌱 Estou aprendendo **Java, Spring** e **React.JS**
-
-- 💬 Me pergunte sobre **html, css, php**
+- 🌱 Estou aprendendo **React.JS** e **TypeScript**
 
 - 📫 Entre em contato comigo em **pedrolucaofc@outlook.com**
 
