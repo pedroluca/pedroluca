@@ -1,5 +1,5 @@
 <div>
-  <a href="https://app.daily.dev/pedroluca"><img src="https://api.daily.dev/devcards/v2/2bzgKd1w7N0tfAcjU1Tcl.png?type=wide&r=08s" width="652" alt="Pedro Luca Prates' Dev Card"/></a>
+  <a href="https://pedroluca.vercel.app"><img src="pedro-banner.svg" alt="Pedro Luca Prates' Banner"/></a>
 </div>
 
 <h2>Hello 👋, I'm Pedro Luca!</h2>
