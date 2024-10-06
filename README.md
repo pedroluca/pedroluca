@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on a [web system](https://github.com/pedroluca/olimpiadas-cientificas) for the [I Olimpíadas Científicas do Sertão Produtivo](https://olimpiadasdosertaoprodutivo.com), an event organized by IF Baiano - <em>Campus</em> Guanambi
 
-- 🌱 Studying and improving my skills in **React.JS**, **TypeScript** and **PHP/Laravel**
+- 🌱 Studying and improving my skills in **React.JS**, **TypeScript** and **Django**
 
 - 🚀 Student at Instituto Federal de Educação, Ciência e Tecnologia Baiano (IFBaiano).
 
