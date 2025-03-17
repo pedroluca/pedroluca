@@ -9,7 +9,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif?raw=true">
 </div>
 
-- 🔭 Currently working on a [web system](https://github.com/pedroluca/olimpiadas-cientificas) for the [I Olimpíadas Científicas do Sertão Produtivo](https://olimpiadasdosertaoprodutivo.com), an event organized by IF Baiano - <em>Campus</em> Guanambi
+- 🔭 Currently finalizing my TCC, that envolves a [web system](https://github.com/pedroluca/olimpiadas-cientificas) to help professors and students organize their supervisions on academic work production, presented in IF Baiano - <em>Campus</em> Guanambi
 
 - 🌱 Studying and improving my skills in **React.JS**, **TypeScript** and **Django**
 
