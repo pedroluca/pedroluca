@@ -13,7 +13,7 @@
 
 - 🌱 Studying and improving my skills in **React.JS**, **TypeScript** and **Django**
 
-- 🚀 Currently fullstack developer at [PROCEDE](https://procede.org).
+- 🚀 Currently working as fullstack developer at [PROCEDE](https://procede.org).
 
 - 📫 Mail me: [**pedrolucaofc@outlook.com**](mailto:pedrolucaofc@outlook.com)
 
