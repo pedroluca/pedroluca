@@ -3,7 +3,7 @@
 </div>
 
 <h2>Hello 👋, I'm Pedro Luca!</h2>
-<p>A passionate Brazilian front-end developer</p>
+<p>A passionate Brazilian fullstack developer</p>
 
 <div>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif?raw=true">
@@ -13,7 +13,7 @@
 
 - 🌱 Studying and improving my skills in **React.JS**, **TypeScript** and **Django**
 
-- 🚀 Student at Instituto Federal de Educação, Ciência e Tecnologia Baiano (IFBaiano).
+- 🚀 Currently fullstack developer at [PROCEDE](https://procede.org).
 
 - 📫 Mail me: [**pedrolucaofc@outlook.com**](mailto:pedrolucaofc@outlook.com)
 
