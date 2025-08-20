@@ -1,5 +1,5 @@
 <div>
-  <a href="https://pedroluca.tech"><img src="pedro-banner.png" alt="Pedro Luca Prates' Banner"/></a>
+  <a href="https://pedroluca.tech"><img src="pedro-banner-new.png" alt="Pedro Luca Prates' Banner"/></a>
 </div>
 
 <h2>Hello 👋, I'm Pedro Luca!</h2>
