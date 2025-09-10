@@ -9,7 +9,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif?raw=true">
 </div>
 
-- 🔭 Last project worked was my TCC, that envolved a [web system](https://github.com/pedroluca/frontend-sigoo) to help professors and students organize their supervisions on academic work production, presented in IF Baiano - <em>Campus</em> Guanambi
+- 🔭 Currently developing projects for PROCEDE, like VOTAR
 
 - 🌱 Studying and improving my skills in **React.JS**, **TypeScript** and **Django**
 
