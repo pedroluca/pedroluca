@@ -15,7 +15,7 @@
 
 - 🚀 Currently working as fullstack developer at [PROCEDE](https://procede.org).
 
-- 📫 Mail me: [**pedrolucaofc@outlook.com**](mailto:pedrolucaofc@outlook.com)
+- 📫 Mail me: [**pedrolucaprates@outlook.com**](mailto:pedrolucaprates@outlook.com)
 
 <h2>Social Networks</h2>
 <p align="left">
