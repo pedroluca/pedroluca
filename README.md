@@ -50,9 +50,7 @@
   <img align="left"
        src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=pedroluca&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight"
        alt="pedroluca" />
-</p>
-
-<p>
+  
   <img align="center"
        src="https://github-readme-stats-one-bice.vercel.app/api?username=pedroluca&show_icons=true&locale=pt-br&theme=tokyonight"
        alt="pedroluca" />
