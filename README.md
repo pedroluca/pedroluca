@@ -1,12 +1,12 @@
 <div>
-  <a href="https://pedroluca.tech"><img src="pedro-banner-new.png" alt="Pedro Luca Prates' Banner"/></a>
+  <a href="https://pedroluca.dev.br"><img src="banner-pedro-dev-2.png" alt="Pedro Luca Prates' Banner"/></a>
 </div>
 
 <h2>Hello 👋, I'm Pedro Luca!</h2>
 <p>A passionate Brazilian fullstack developer</p>
 
 <div>
-  <a href="https://pedroluca.tech"><img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif?raw=true"></a>
+  <a href="https://pedroluca.dev.br"><img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif?raw=true"></a>
 </div>
 
 - 🔭 Currently developing projects for PROCEDE, like VOTAR
